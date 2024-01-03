@@ -11,5 +11,8 @@ Like so:
 3. If graph is ajdoint, check whether it's line.
 4. Create original graph based on adjoint and save its adjacency list as output file.
 
+![image](https://github.com/annnkle/adjoint_line_graphs/assets/95099151/b6705ec9-6c8a-4ab9-8cdb-fa7306aa2ab2)
+
+
 #### Goal
 Graphs of those qualities can be used in solving the assembly of nucleotide sequencies.
